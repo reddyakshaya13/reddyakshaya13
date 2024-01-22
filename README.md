@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akshaya Reddy kommula 🔥😎</h1>
+<h1 align="center">Hi, I'm Akshaya Reddy Kommula 🔥😎</h1>
 
 <h3 align="center">I am a passionate guy who loves to build applications and apply algorithms to solve real-world problems.</h3>
 
@@ -34,7 +34,7 @@ I'm actively😥 looking for full-time opportunities😁 in software development
 
 <b>Short Intro for  me :</b>
 
-I am Rajashekar Reddy Kommula, a Software Engineering masters🎓 student at San Jose State University🏫. I enjoy delving into various fields and strive to learn as much as I can. Although it may appear a bit overwhelming❤️‍🔥 at times, I find it fascinating! 😁
+I am Akshaya Reddy Kommula, a Software Engineering masters🎓 student at University of central missouri🏫. I enjoy delving into various fields and strive to learn as much as I can. Although it may appear a bit overwhelming❤️‍🔥 at times, I find it fascinating! 😁
 
 I am a programmer👨🏻‍💻 and more into distributed systems and full stack development but yeah, can't miss problem solving❓⚠️, the best part of being a programmer.
 
